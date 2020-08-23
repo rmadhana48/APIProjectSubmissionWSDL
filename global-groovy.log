@@ -1,0 +1,103 @@
+2020-08-23 19:06:44,238 INFO  [log] 3
+2020-08-23 19:06:44,241 INFO  [log] 3
+2020-08-23 19:06:44,266 INFO  [log] radhika4834@gmail.com
+2020-08-23 19:06:44,276 INFO  [log] Radhika
+2020-08-23 19:06:44,286 INFO  [log] M
+2020-08-23 19:06:45,223 INFO  [log] 5708
+2020-08-23 19:06:46,721 INFO  [log] Status: FINISHED, time taken for TestCase was: 2341 ms
+2020-08-23 19:06:46,738 INFO  [log] Number of test steps which ran: 4
+2020-08-23 19:06:46,738 INFO  [log] akshara345@yahoo.com
+2020-08-23 19:06:46,738 INFO  [log] Akshara
+2020-08-23 19:06:46,746 INFO  [log] K
+2020-08-23 19:06:47,632 INFO  [log] 5709
+2020-08-23 19:06:50,208 INFO  [log] Status: FINISHED, time taken for TestCase was: 3423 ms
+2020-08-23 19:06:50,208 INFO  [log] Number of test steps which ran: 4
+2020-08-23 19:06:50,209 INFO  [log] chandukan123@gmail.com
+2020-08-23 19:06:50,209 INFO  [log] chandu
+2020-08-23 19:06:50,210 INFO  [log] K
+2020-08-23 19:06:51,009 INFO  [log] 5710
+2020-08-23 19:06:52,759 INFO  [log] Status: FINISHED, time taken for TestCase was: 2489 ms
+2020-08-23 19:06:52,761 INFO  [log] Number of test steps which ran: 4
+2020-08-23 19:06:53,102 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <CUSTOMERDATA.EMAIL>radhika1897@gmail.com</CUSTOMERDATA.EMAIL>
+            <CUSTOMERDATA.FNAME>Radhika</CUSTOMERDATA.FNAME>
+            <CUSTOMERDATA.LNAME>M</CUSTOMERDATA.LNAME>
+        </Row>
+        <Row rowNumber="2">
+            <CUSTOMERDATA.EMAIL>akki1897@gmail.com</CUSTOMERDATA.EMAIL>
+            <CUSTOMERDATA.FNAME>akshara</CUSTOMERDATA.FNAME>
+            <CUSTOMERDATA.LNAME>K</CUSTOMERDATA.LNAME>
+        </Row>
+        <Row rowNumber="3">
+            <CUSTOMERDATA.EMAIL>chand3456@gmail.com</CUSTOMERDATA.EMAIL>
+            <CUSTOMERDATA.FNAME>chandu</CUSTOMERDATA.FNAME>
+            <CUSTOMERDATA.LNAME>K</CUSTOMERDATA.LNAME>
+        </Row>
+    </ResultSet>
+</Results>
+
+2020-08-23 19:06:53,169 INFO  [log] 3
+2020-08-23 19:06:53,189 INFO  [log] Email id is : radhika1897@gmail.com
+2020-08-23 19:06:53,189 INFO  [log] Customer Name is Radhika M
+2020-08-23 19:06:54,025 INFO  [log] 5711
+2020-08-23 19:06:55,696 INFO  [log] Email id is : akki1897@gmail.com
+2020-08-23 19:06:55,696 INFO  [log] Customer Name is akshara K
+2020-08-23 19:06:56,520 INFO  [log] 5712
+2020-08-23 19:06:58,030 INFO  [log] Email id is : chand3456@gmail.com
+2020-08-23 19:06:58,030 INFO  [log] Customer Name is chandu K
+2020-08-23 19:06:58,783 INFO  [log] 5713
+2020-08-23 19:07:01,312 INFO  [log] 5714
+2020-08-23 19:07:11,902 INFO  [log] 3
+2020-08-23 19:07:11,902 INFO  [log] 3
+2020-08-23 19:07:11,905 INFO  [log] radhika4834@gmail.com
+2020-08-23 19:07:11,913 INFO  [log] Radhika
+2020-08-23 19:07:11,914 INFO  [log] M
+2020-08-23 19:07:12,978 INFO  [log] 5716
+2020-08-23 19:07:14,695 INFO  [log] Status: FINISHED, time taken for TestCase was: 2732 ms
+2020-08-23 19:07:14,695 INFO  [log] Number of test steps which ran: 4
+2020-08-23 19:07:14,696 INFO  [log] akshara345@yahoo.com
+2020-08-23 19:07:14,696 INFO  [log] Akshara
+2020-08-23 19:07:14,697 INFO  [log] K
+2020-08-23 19:07:15,705 INFO  [log] 5717
+2020-08-23 19:07:17,443 INFO  [log] Status: FINISHED, time taken for TestCase was: 2717 ms
+2020-08-23 19:07:17,443 INFO  [log] Number of test steps which ran: 4
+2020-08-23 19:07:17,444 INFO  [log] chandukan123@gmail.com
+2020-08-23 19:07:17,444 INFO  [log] chandu
+2020-08-23 19:07:17,445 INFO  [log] K
+2020-08-23 19:07:18,218 INFO  [log] 5718
+2020-08-23 19:07:19,742 INFO  [log] Status: FINISHED, time taken for TestCase was: 2259 ms
+2020-08-23 19:07:19,742 INFO  [log] Number of test steps which ran: 4
+2020-08-23 19:07:19,785 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <CUSTOMERDATA.EMAIL>radhika1897@gmail.com</CUSTOMERDATA.EMAIL>
+            <CUSTOMERDATA.FNAME>Radhika</CUSTOMERDATA.FNAME>
+            <CUSTOMERDATA.LNAME>M</CUSTOMERDATA.LNAME>
+        </Row>
+        <Row rowNumber="2">
+            <CUSTOMERDATA.EMAIL>akki1897@gmail.com</CUSTOMERDATA.EMAIL>
+            <CUSTOMERDATA.FNAME>akshara</CUSTOMERDATA.FNAME>
+            <CUSTOMERDATA.LNAME>K</CUSTOMERDATA.LNAME>
+        </Row>
+        <Row rowNumber="3">
+            <CUSTOMERDATA.EMAIL>chand3456@gmail.com</CUSTOMERDATA.EMAIL>
+            <CUSTOMERDATA.FNAME>chandu</CUSTOMERDATA.FNAME>
+            <CUSTOMERDATA.LNAME>K</CUSTOMERDATA.LNAME>
+        </Row>
+    </ResultSet>
+</Results>
+
+2020-08-23 19:07:19,866 INFO  [log] 3
+2020-08-23 19:07:19,873 INFO  [log] Email id is : radhika1897@gmail.com
+2020-08-23 19:07:19,874 INFO  [log] Customer Name is Radhika M
+2020-08-23 19:07:20,703 INFO  [log] 5719
+2020-08-23 19:07:22,403 INFO  [log] Email id is : akki1897@gmail.com
+2020-08-23 19:07:22,404 INFO  [log] Customer Name is akshara K
+2020-08-23 19:07:23,693 INFO  [log] 5720
+2020-08-23 19:07:25,411 INFO  [log] Email id is : chand3456@gmail.com
+2020-08-23 19:07:25,412 INFO  [log] Customer Name is chandu K
+2020-08-23 19:07:26,236 INFO  [log] 5721
+2020-08-23 19:07:28,731 INFO  [log] 5722
+2020-08-23 19:07:30,408 INFO  [log]  >>> APIProjectCustomer - Executed Successfully
